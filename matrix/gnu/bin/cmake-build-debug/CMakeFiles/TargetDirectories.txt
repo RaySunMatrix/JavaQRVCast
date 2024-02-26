@@ -1,0 +1,3 @@
+/home/admin/NetBeansProjects/JavaQRVCast/cmake-build-debug/CMakeFiles/JavaQRVCast.dir
+/home/admin/NetBeansProjects/JavaQRVCast/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/admin/NetBeansProjects/JavaQRVCast/cmake-build-debug/CMakeFiles/rebuild_cache.dir
